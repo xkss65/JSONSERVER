@@ -1,0 +1,53 @@
+{
+    "users":[
+        {
+            "id":"1",
+            "firstname":"John",
+            "lastname":"Doe",
+            "email":"john@gmail.com",
+            "age": 34,
+            "companyId":"1"
+        },
+        {
+            "id":"2",
+            "firstname":"Mark",
+            "lastname":"Doe",
+            "email":"Mark@gmail.com",
+            "age": 33,
+            "companyId":"1"
+        },
+        {
+            "id":"3",
+            "firstname":"Sara",
+            "lastname":"Doe",
+            "email":"Sare@gmail.com",
+            "age": 32,
+            "companyId":"2"
+        },
+        {
+            "id":"4",
+            "firstname":"Karen",
+            "lastname":"Doe",
+            "email":"Karen@gmail.com",
+            "age": 31,
+            "companyId":"3"
+        }
+    ],
+    "companies":[
+        {
+            "id":"1",
+            "name":"Apple",
+            "description":"Apple Inc. is an American multinational bla bla bla"
+        },
+        {
+            "id":"2",
+            "name":"Microsoft",
+            "description":"Microsoft Corporation is bla bla bla"
+        },
+        {
+            "id":"3",
+            "name":"Google",
+            "description":"Google was founded by Larry page and Sergey Brin bla bla bla"
+        }
+    ]
+}
