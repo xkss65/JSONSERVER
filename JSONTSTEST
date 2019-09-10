@@ -1,0 +1,20 @@
+{	
+	"Target001": {	"id":"001",
+			"symbol":"&euro;",
+			"Targetamount":"8,000.00",
+			"Targetsaved":"4,000.00",
+			"description":"Car"},
+
+	 "Target002": {	"id":"002",
+			"symbol":"&euro;",
+			"Targetamount":"7,500.00",
+			"Targetsaved":"3,000.00",
+			"description":"Boat"},
+
+	 "Target003": {	"id":"003",
+			"symbol":"&euro;",
+			"Targetamount":"10,600.00",
+			"Targetsaved":"4,000.00",
+			"description":"House repair"}
+	
+}
