@@ -1,0 +1,18 @@
+[ 
+   { 
+      "termInMonths":12,
+      "interestRate":1
+   },
+   { 
+      "termInMonths":24,
+      "interestRate":2
+   },
+   { 
+      "termInMonths":120,
+      "interestRate":4.25
+   },
+   { 
+      "termInMonths":240,
+      "interestRate":4.44
+   }
+]
